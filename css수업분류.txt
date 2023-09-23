@@ -1,0 +1,90 @@
+오후 2:40 2023-09-23
+
+<css수업>
+
+##1. css와 html
+
+
+CSS 소개
+실습환경
+HTML과 CSS가 만나는 법
+선택자
+선택자와 선언
+
+##선택자 수업
+
+
+선택자의 종류
+부모 자식 선택자
+선택자 공부 팁
+가상 클래스 선택자
+여러가지 선택자들
+
+  
+##  속성
+
+
+속성을 공부하는 방법
+타이포그래피
+font-size
+color
+text-align
+
+##  폰트
+
+
+font
+서체
+웹폰트
+조화
+상속
+stylish
+캐스케이딩
+
+
+##  도구소개
+
+
+도구소개 - brackets
+레이아웃
+인라인 VS 블럭레밸
+박스모델
+box-sizing
+
+##  마진
+
+
+마진겹침 현상
+포지션
+flex
+media query
+float
+다단(multi column)
+
+
+##  그래픽배경
+
+
+그래픽
+배경(background)
+필터(filter)
+혼합(blend)
+변형(transform)
+SVG
+
+##  모션그래픽
+
+
+모션그래픽
+전환(transition)
+유지보수
+link와 import
+코드 경량화(minify)
+CSS 뛰어넘기 (preprocessor)
+
+##  버튼만들어보기
+
+library
+fontello
+buttons
+Semantic-UI
